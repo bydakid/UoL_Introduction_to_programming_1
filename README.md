@@ -1,4 +1,4 @@
-# Introduction to Programming I - Final Project
+# University of London - Introduction to Programming I Final Project
 ## Coin Collector Game
 This project is the final submission for the University of London module "Introduction to Programming I." It involves creating a simple game using JavaScript that allows players to collect coins while navigating through a basic design. The game is designed with three lives for the player, who can move using the arrow keys and jump using the space bar.
 
